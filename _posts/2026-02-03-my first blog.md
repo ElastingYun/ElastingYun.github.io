@@ -2,7 +2,7 @@
 layout: post
 title: "My First Post"
 subtitle: "Hello World, Hello Blog"
-date: 2026-02-03
+date: 2024-02-03
 author: "ElastingYun"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
